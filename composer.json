@@ -1,0 +1,18 @@
+{
+    "name": "collaborative/project_git_mvc_poo",
+    "description": "Collaborative project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Collaborative\\ProjectGitMvcPoo\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tarek, Anas, Maher et Alain"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
